@@ -8,7 +8,7 @@ Guide by [@cbtham](https://github.com/cbtham)<br/>
 
 ## Who is this for
 1. Average/advance user that does not want to deal with a lot of router jargons, testing, troubleshooting. 
-1. Folks that want to use consumer router - Asus, TP Link (Eww Mikrotik, Ubiquiti).
+1. Folks that want to use consumer router - Asus, TP Link (Eww Mikrotik, Ubiquiti, Zytel).
 
 ## Myths to debunk
 1. You can get more than 1gbps over wifi - You cant. TLDR: Noise, bandwith, antenna limitations. Long story: [here](https://www.duckware.com/tech/wifi-in-the-us.html)
