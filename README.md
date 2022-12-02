@@ -1,9 +1,7 @@
 # WIP Multi Gigabit Internet
 ## Overview
-![IMG_1027](https://user-images.githubusercontent.com/5702935/205217137-ad41a740-e1e6-4dee-b4da-63b8ec47e3b1.jpg)
-![IMG_1026](https://user-images.githubusercontent.com/5702935/205217083-de11ff57-7b70-486e-9eff-9b503563afd7.jpg)
-
-[<img src="./img/tm.jpg" width=60% height=60%/>](https://github.com/cbtham/multum/ "Speedtest on TM")
+[<img src="./img/tm.jpg" width=75% height=50%/>](https://github.com/cbtham/multum/ "Speedtest on TM")
+[<img src="./img/fast.jpg" width=75% height=50%/>](https://github.com/cbtham/multum/ "Speedtest on Fast")
 
 This guide is to share my journey towards multi gigabit internet and give back to the community that helped me achieved this.
 
