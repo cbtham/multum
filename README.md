@@ -21,3 +21,6 @@ This guide is to share my journey towards multi gigabit internet and give back t
 
 ## Guide
 Coming soon
+
+## Special Thanks
+* (Anime4000) https://github.com/Anime4000/RTL960x#guide-links-info
