@@ -9,7 +9,7 @@ This guide is to share my journey towards multi gigabit internet and give back t
 1. Folks that want to use consumer router - Asus, TP Link (Eww Mikrotik, Ubiquiti).
 
 ## Myths to debunk
-1. You can get more than 1gbps over wifi - You cant. TLDR: Noise, bandwith, antenna limitations. Long story: here
+1. You can get more than 1gbps over wifi - You cant. TLDR: Noise, bandwith, antenna limitations. Long story: [here](https://www.duckware.com/tech/wifi-in-the-us.html)
 1. Max out ingress traffic(coming into router WAN) equals fast wifi - Not true. TLDR: Noise, bandwith, antenna limitations. Refer 1.
 1. You can reuse existing devices to get multigig internet - Plausible, mainly not true.
 
