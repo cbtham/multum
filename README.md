@@ -25,6 +25,12 @@ Guide by [@cbtham](https://github.com/cbtham)<br/>
 1. Router that supports 2.5gbps WAN and Ethernet
 1. Switch that supports 2.5gbps Ethernet
 
+### My current setup
+1. ROG RT-AX6000 router (1x 2.5G WAN, 1x 2.5G LAN)
+1. TP-Link SH1005 switch (5x 2.5G LAN)
+1. Hellotek T8501-S 2.5G media converter
+1. ODI XPON ONU Stick
+
 ## Guide
 Coming soon
 
