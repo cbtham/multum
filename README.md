@@ -21,6 +21,10 @@ Guide by [@cbtham](https://github.com/cbtham)<br/>
 1. You need a client to take more than 1gbps ethernet. Exisiting gigabit ethernet will not give you more than 1gbps if say your incoming source provides over 2gbps. You WILL be limited to 1gbps.
 1. Wifi6/6E will not give you more bandwidth to hit the magical 1gbps. Your iPhone, Samsung, Laptops(As of 2022 Dec) are mostly 2x2 MIMO antenna. This will not give you multigig speed. If you own a 4x4 MIMO antenna device(Rare in market as of 2022 Dec), then yes, you can get over 1gbps on wifi
 
+## Things you need
+1. Router that supports 2.5gbps WAN and Ethernet
+1. Switch that supports 2.5gbps Ethernet
+
 ## Guide
 Coming soon
 
