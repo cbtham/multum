@@ -1,5 +1,8 @@
 # WIP Multi Gigabit Internet
 ## Overview
+![IMG_1026](https://user-images.githubusercontent.com/5702935/205217083-de11ff57-7b70-486e-9eff-9b503563afd7.jpg)
+![IMG_1026](https://user-images.githubusercontent.com/5702935/205217092-3562c235-e509-4ebf-8efc-c7857ceb7f6c.jpg)
+
 This guide is to share my journey towards multi gigabit internet and give back to the community that helped me achieved this.
 
 ## Who is this for
